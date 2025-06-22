@@ -64,18 +64,19 @@ In my leisure time, I indulge in the enriching realms of literature and music, f
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chdsssbaba/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditya78794@gmail.com)
--->
+
 ## ⚡ Fun Fact
 
 Did you know? I love solving problems on LeetCode, GeeksforGeeks, and CodeChef! 🧩
-
+-->
 <!-- Add any other content or customization you need below -->
+<!--
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siva-e9&label=Profile%20views&color=0e75b6&style=flat" alt="siva-e9" /> </p>
 
 <p align="left"> <a href="https://twitter.com/chdsssbaba" target="blank"><img src="https://img.shields.io/twitter/follow/chdsssbaba?logo=twitter&style=for-the-badge" alt="chdsssbaba" /></a> </p>
-
+-->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/chdsssbaba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chdsssbaba" height="30" width="40" /></a>
