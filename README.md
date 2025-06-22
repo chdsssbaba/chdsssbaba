@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 🌟 CHITTURI DOLA SATYA SIVA SHANKAR BABA 🌟Add commentMore actions
+# 🌟 CHITTURI DOLA SATYA SIVA SHANKAR BABA 🌟
 ![Programming GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGhicDB2Mjk4dGowdDBhbXowNzd1cTBpeTlqcmwydTRjdHc5ajFldyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/141u78GarhcaRO/giphy.gif)
 
 
