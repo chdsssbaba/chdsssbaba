@@ -54,15 +54,17 @@ Jan 2010 - Mar 2021
 🌟 Interests:
 In my leisure time, I indulge in the enriching realms of literature and music, finding inspiration in diverse genres and narratives. Additionally, I am an avid badminton enthusiast, always eager to engage in friendly matches and stay physically active.
 
+<!--
 ## 🚀 My Competitive Programming Profiles
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/siva_e9?theme=light&font=source_code_pro&ext=heatmap)](https://leetcode.com/siva_e9/)
+
 
 ## 🌐 Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chdsssbaba/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditya78794@gmail.com)
-
+-->
 ## ⚡ Fun Fact
 
 Did you know? I love solving problems on LeetCode, GeeksforGeeks, and CodeChef! 🧩
@@ -84,13 +86,14 @@ Did you know? I love solving problems on LeetCode, GeeksforGeeks, and CodeChef! 
 <a href="https://www.codechef.com/users/chdsssbaba" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="siva_e9" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/siva_e9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="siva_e9" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/siva-e9?utm_medium=social&utm_source=heylink.me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="siva_e9" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/siva_e9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="siva_e9" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@aditya78794?utm_medium=social&utm_source=heylink.me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="siva_e9" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/chdsssbaba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="siva_e9" height="30" width="40" /></a>
+<!-- <a href="https://www.hackerearth.com/@aditya78794?utm_medium=social&utm_source=heylink.me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="siva_e9" height="30" width="40" /></a> -->
 <a href="https://auth.geeksforgeeks.org/user/siva_e9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="siva_e9" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> </p>
-
+<!--
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/siva_e9"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="siva_e9" /></a></p><br><br>
+-->
